@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [singh-govind.github.io](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](singh-govind.github.io)
 
 - 📫 How to reach me **govindkmr141@gmail.com**
 
