@@ -28,5 +28,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singh-govind&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-govind&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=aaryansinha16&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
