@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- I’m actively looking for oppoturnities.
+- 🕵️‍♀️ I’m actively looking for oppoturnities.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://singh-govind.github.io)
 
