@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **MERN**
 
+- I’m actively looking for oppoturnities.
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://singh-govind.github.io)
 
 - 📫 You can contact me on **govindkmr141@gmail.com**
