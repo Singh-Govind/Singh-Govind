@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://singh-govind.github.io)
 
-- 📫 How to reach me **govindkmr141@gmail.com**
+- 📫 You can contact me on **govindkmr141@gmail.com**
 
 
 
