@@ -29,6 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=singh-govind&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singh-govind&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-govind&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![Govind's github activity graph](https://activity-graph.herokuapp.com/graph?username=singh-govind&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![](https://visitcount.itsvg.in/api?id=singh-govind&icon=5&color=12)](https://visitcount.itsvg.in)
