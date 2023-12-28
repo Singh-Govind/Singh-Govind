@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govind Kumar Sigh</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<p align="center">Hi, my name is Govind Kumar Singh an Experienced Full Stack Web Developer with a passion for learning new technology. I'm a passionate learner who's always willing to learn and work across technologies and domains.</p>
+<p align="center">Hi, I'm Govind Kumar Singh, an experienced Full Stack Web Developer with a passion for learning new technologies. I'm a dedicated learner who is always eager to explore and work across different technologies and domains.</p>
 
 
 - 🌱 I’m currently learning **MERN**
